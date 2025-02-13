@@ -11,6 +11,7 @@ After graduating in IT (2015), life led me on an unexpected adventure. Now I'm r
 👶 Mom on a mission to share the magic of problem-solving through code
 
 🛠️ Current Coding Toolkit:
+
 [HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 [CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -21,10 +22,10 @@ After graduating in IT (2015), life led me on an unexpected adventure. Now I'm r
 
 [React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-🌱 Growing In
+🌱 Growing In :
 
-◼️ Frontend Fundamentals  
-◼️ Backend Basics
-◼️ Database Design        
-◼️ Full Stack Flow
-◼️ Mommy-Approved Debugging 🦸♀️
+✨ Frontend Fundamentals  
+✨ Backend Basics
+✨ Database Design        
+✨ Full Stack Flow
+✨ Mommy-Approved Debugging 🦸♀️
