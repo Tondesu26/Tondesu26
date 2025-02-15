@@ -26,6 +26,4 @@ After graduating in IT (2015), life led me on an unexpected adventure. Now I'm r
 
 ✨ Frontend Fundamentals  
 ✨ Backend Basics
-✨ Database Design        
-✨ Full Stack Flow
 ✨ Mommy-Approved Debugging 🦸♀️
