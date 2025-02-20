@@ -1,13 +1,11 @@
 Hi there, I'm Antonette P. (Tonya) 👋
 
-🌻 A tech enthusiast rediscovering the world of code 🌻 
-After graduating in IT (2015), life led me on an unexpected adventure. Now I'm reigniting my passion for technology and building a coding journey that's even sweeter the second time around!
-
-
 🧩 My Story
 
 🎓 IT Graduate ('15) turned lifelong learner
+
 👩💻 Returning to tech with fresh eyes & renewed drive
+
 👶 Mom on a mission to share the magic of problem-solving through code
 
 🛠️ Current Coding Toolkit:
